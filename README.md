@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Sai Lohitha! 👋
 
-<!--
-**lohitha-025/lohitha-025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc Data Science Student @ Aditya Degree College, Visakhapatnam (2027)
+📊 Passionate about turning data into meaningful insights
+☁️ MS Azure Cloud Intern | AWS Cloud Foundations
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Languages:** Python | SQL | C | HTML |  
+**Libraries:** Pandas | NumPy | Matplotlib | Seaborn | Plotly | BeautifulSoup  
+**Tools:** Power BI | Tableau | Jupyter Notebook | Git & GitHub | MS Excel | Figma  
+**Cloud:** Microsoft Azure | AWS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 📦 **Retail Customer Behavior & Shopping Trends** – Python, SQL, Power BI
+- 🎬 **Netflix Content Dashboard** – Tableau
+- 📈 **Sales Dashboard Analysis** – MS Excel
+- 🚗 **Driver Drowsiness Detection System** – Arduino
+- 🤖 **Obstacle Avoiding Robot** – Arduino UNO
+
+## 🏆 Certifications
+- Deloitte – Data Analytics Job Simulation (Forage)
+- Tata – Data Visualization (Forage)
+- IBM – Introduction to Data Analytics (Coursera)
+- AWS Academy – Cloud Foundations
+- Cisco – Python Essentials
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sai-lohitha-5a3b72325)
+📧 sailohitha2006@gmail.com
