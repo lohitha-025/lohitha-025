@@ -12,8 +12,6 @@
 
 ## 🚀 Projects
 - 📦 **Retail Customer Behavior & Shopping Trends** – Python, SQL, Power BI
-- 🎬 **Netflix Content Dashboard** – Tableau
-- 📈 **Sales Dashboard Analysis** – MS Excel
 - 🚗 **Driver Drowsiness Detection System** – Arduino
 - 🤖 **Obstacle Avoiding Robot** – Arduino UNO
 
