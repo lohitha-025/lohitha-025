@@ -154,8 +154,7 @@ I'm continuously learning and improving my technical, communication, and analyti
 
 - **Email:** sailohitha2006@gmail.com
 - **GitHub:** https://github.com/lohitha-025
-- **LinkedIn:** Add your LinkedIn profile URL here
-
+- **LinkedIn:**:www.linkedin.com/in/sai-lohitha-5a3b72325    
 ---
 
 ## ✨ A Little About Me
